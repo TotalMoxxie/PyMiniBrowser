@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1313ffa1-32f8-4d21-b146-fb4f28bba682" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MiniBrowserProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="1313ffa1-32f8-4d21-b146-fb4f28bba682" name="Changes" comment="My First Browser" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TotalMoxxie/PyMiniBrowser.git",
+    "accountId": "7c3349bf-0ab9-4b8f-a3da-23d009bf4ccd"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -59,7 +57,20 @@
       <option name="presentableId" value="Default" />
       <updated>1732227412853</updated>
     </task>
+    <task id="LOCAL-00001" summary="My First Browser">
+      <option name="closed" value="true" />
+      <created>1732230740388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732230740388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My First Browser" />
+    <option name="LAST_COMMIT_MESSAGE" value="My First Browser" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
